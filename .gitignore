@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv_instagram/
+
+# Environment variables
+.env
+
+# Logs and screenshots
+*.log
+*.png
+instagram_automation.log
+*.screenshot.png
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+instagram_automation_report.txt
+nstbrowserinfo.txt
+profile_ids.txt
+accounts.txt
+test_accounts.txt

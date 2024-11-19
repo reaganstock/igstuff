@@ -1,0 +1,298 @@
+
+Unit 1 Overview
+Environmental Science is the study of the interactions between Earth systems. To begin our exploration, we will first survey various Earth systems and resources. We will explore the basics of Earth science in terms of the geosphere, tectonic processes, and seasons. Next, we will explore the atmosphere and global weather patterns. Then, we will survey the hydrosphere and the ways in which we access our water supply. Lastly, we will take a look at the relationship between the rock cycle and soil.
+
+Essential Questions
+How do plate tectonics and solar intensity affect the structure of the Earth's geosphere? 
+How does the composition and structure of the Earth's atmosphere affect global weather patterns?
+What is the role of the hydrologic cycle in water use and conservation?
+How does soil form and what is the role of the rock cycle?
+How is the soil health measured?
+How does human activity affect the health of soils and what impact does "unhealthy" soil have on an ecosystem? 
+Objectives
+You will:
+
+understand the interrelationships of the abiotic components of the natural world
+describe the geosphere and the processes that affect it
+describe the composition and structure of the atmosphere
+differentiate between weather and climate
+evaluate the effects of natural processes on atmosphere-ocean interactions
+evaluate the role of the hydrologic cycle in the availability of water
+understand the difference between saltwater, freshwater, groundwater, and surface water
+analyze data concerning water use and conservation
+describe the formation and composition of soil
+evaluate the health of a sample of soil
+assess the renewability of soil and the importance of conservation efforts
+ 
+
+To prepare for this unit, please do the following:
+
+Print off Unit 1 GlossaryLinks to an external site. and add it to your interactive notebook.
+Gather Unit 1 Lab MaterialsLinks to an external site.. 
+
+Lesson 1: Earth Science
+Lesson Objectives
+You will:
+
+understand the interrelationships of the abiotic spheres of the natural world
+describe the geosphere and the processes that effect it
+
+Engage: Earth Science
+According to data and models, the Earth formed about 4.6 billion years ago as huge clouds of gas debris collided with heavier elements produced by supernovae at extremely high temperatures. As the Earth cooled, the surface formed a solid crust. We can describe the structure of the Earth by examining its four systems: the lithosphere, hydrosphere, biosphere, and atmosphere.
+
+The four spheres
+
+(Image Source: https://upload.wikimedia.org/wikipedia/commons/c/cd/Atmosphere-Biosphere-Hydrosphere-Lithosphere.pngLinks to an external site.)
+
+Over the past billion years, the Earth's systems have continued to change and are constantly interacting with one another, shaping Earth's landforms, influencing weather patterns, and supporting a stunning range of biodiversity found on all seven continents and in all five oceans. 
+
+By studying the Earth's geological processes and history, we can uncover important clues about its past and build models to predict its future. We will begin with a survey of the lithosphere and explore the components of the interior of the Earth and how they affect features on Earth's surface.
+
+Explore I: Earth Science
+Open the Plate Tectonics Simulation by doing the following:
+
+Go to this websiteLinks to an external site..
+Click Download.
+Follow instructions for accessing your downloads and opening the application.
+If you are unable to run the simulation, watch this videoLinks to an external site., which demonstrates the steps outlined below.
+
+Explore the structure of the geosphere:
+
+Click "Both" and "Show Labels" in the View window.
+Zoom all the way out by dragging the zoom tab down.
+Compare the density and temperature of the layers by clicking "Density" and then "Temperature" and noting the scale at the bottom.
+Draw a picture of the geosphere in your interactive notebook and label the crust, mantle, lower mantle, outer core, and inner core. Note which layers have the greater thickness, density, and temperature.
+Next, explore the ways in which different types of crust interact. Click on the "Plate Motion" tab.
+
+First, let's explore a process called subduction.
+Click "Both" and "Show Labels" in the View window.
+Drag a continental crust to one side and an oceanic crust (old or new) to the other.
+Click "Show Seawater" in the View window.
+Drag the red knob to the left. Notice the time elapsed. 
+Describe the cause and effects of subduction in your interactive notebook.
+Click "Reset All."
+Next, let's observe a divergent plate boundary.
+Click "Both" and "Show Labels" in the View window.
+Drag an old oceanic crust to one side and another old oceanic crust to the other side.
+Click "Show Seawater" in the view window.
+Click "Automatic Mode" and press the play button on the top right. 
+Describe a divergent plate boundary and the features that it creates in your interactive notebook.
+Click "Reset All."
+Now, let's describe a convergent plate boundary.
+Click "Both" and "Show Labels" in the View window.
+Drag a continental crust to one side and another continental crust to the other side.
+Click "Show Seawater" in the view window.
+Click "Automatic Mode" and press the play button on the top right. Wait 35 million years.
+Describe a convergent plate boundary and the features that it creates in your interactive notebook.
+Click "Reset All."
+Last, let's observe a transform plate boundary.
+Click "Both" and "Show Labels" in the View window.
+Drag a continental crust to one side and another continental crust to the other side.
+Click "Show Seawater" in the view window.
+Click "Automatic Mode," then "Transform," and press the play button on the top right. Wait 25 million years.
+Describe a transform plate boundary and the features that it creates in your interactive notebook.
+
+xplain I: Earth Science
+Now that you have explored the layers of the geosphere and how different types of crust interact, let's define these structures and processes more clearly.
+
+ 
+
+Earth's layersFirst, let's survey the layers of Earth's interior. As you read through the information below, analyze the diagram to the right. The innermost portion is known as the core. It is primarily composed of the metals nickel and iron, and it has a very high density. The inner core contains mostly solid iron, while the outer core contains a nickel-iron liquid mixture. The core contains radioactive materials that produce enormous amounts of heat as they decay. For this reason, the core is the Earth's internal source of heat. 
+
+Outside of the core, we find the layer known as the mantle. This layer makes up the majority of the mass of Earth. It is composed of magnesium, aluminum, and silicon-oxide compounds. Most of the mantle is solid, except for the uppermost region. This layer is more plastic-like. The mantle becomes cooler as the distance from the core increases. The plastic-like nature of the upper mantle along with the temperature gradient produces convection currents which move the crust that sits on top. As the fluid of the mantle warms up, it becomes less dense causing it to rise. Once the fluid cools down, the density increases, causing it to sink. 
+
+(Image Source: https://commons.wikimedia.org/w/index.php?curid=7904982Links to an external site.) 
+
+Observe this process in the animation below.
+Convection currents
+
+(Image Source: By User:Oni Lukos - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1479796Links to an external site.)
+
+The crust makes up the outermost layer beyond the mantle. Oceanic crust exists below the oceans, while the continents sit on continental crust. As you saw in the simulation, oceanic crust is much thinner than continental crust. Together the upper mantle and the crust make up the lithosphere. The lithosphere is rigid, brittle, and strong. Because it is brittle, the Earth's crust is cracked, producing pieces called tectonic plates. 
+
+The interaction between the lithosphere and the much less rigid layer just below it results in the movement of tectonic plates. As convection currents in the mantle move tectonic plates toward and away from each other, they form different types of boundaries, which are diagrammed in the image below.
+
+Tectonic plate boundaries
+
+(Image source: https://upload.wikimedia.org/wikipedia/commons/4/40/Tectonic_plate_boundaries.png)
+
+When two plates collide, they form a convergent plate boundary. If two continental plates form a convergent boundary, the crust is compacted into large mountain ranges, like the Himalayas. When an oceanic plate and a continental plate collide, subduction occurs. Recall that oceanic crust is much denser than continental crust. Because of this, the oceanic crust slides under the continental crust. This subduction can result in deep ocean trenches, like the Mariana Trench in the Pacific Ocean. The crust that slides under melts due to higher temperature and pressure. This molten crust, or magma, can rise to the surface and form a volcano. At convergent boundaries, crust can be destroyed. 
+When two plates move away from each other, they form a divergent plate boundary. If two oceanic plates diverge, magma from the mantle rises through the resulting cracks, cools, and forms new crust. This produces underwater ridges, as well as rift valleys. At divergent boundaries, new crust can be created. 
+When two plates slide past one another, they form a transform boundary. When this happens, the nearby crustal regions can build up strain. This results in an earthquake. The San Andreas Fault in California is an example of a transform plate boundary. At transform boundaries, crust is neither created nor destroyed. 
+Summary of Key Concepts:
+The interactions between the different layers of Earth's interior are largely responsible for features on Earth's surface. 
+The upper mantle acts as a lubricant as convection currents move sections of crust known as tectonic plates forming three different types of plate boundaries: convergent, divergent, and transform.
+Complete the graphic organizerLinks to an external site. and add it to your interactive notebook. 
+
+Elaborate I: Earth Science
+The United States Geological Survey's website has a live mapLinks to an external site. of recent earthquakes. Open the link and zoom out. What patterns do you notice? What do you think those patterns suggest?
+
+Tectonic plate boundaries
+
+(Image Source: By Eric Gaba (Sting - fr:Sting) - Background map: NGDC World Coast Line dataData: Prof. Peter Bird's map, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1307879Links to an external site.) 
+
+According to the Theory of Plate Tectonics, the lithosphere is comprised of some seven major plates and several smaller ones. Due to the nature of their crust, these plates form different types of boundaries, as seen in the image above. As we mentioned on the previous page, the interactions of these plates often have violent consequences for our planet. Two examples of these consequences are volcanoes and earthquakes.
+
+Volcanoes
+Recall that Earth is extremely hot at its center due to the radioactive decay of the elements in its core. This heat moves large plumes of hot magma in the mantle upward to the lithosphere, creating areas known as hot spots. This can produce an active volcano if the molten rock escapes through a crack or vent. Volcanic eruptions can release lava, rock, ash, and gases. Like we mentioned on the previous page, the majority of volcanoes occur at convergent plate boundaries. 
+
+Research and list the effects of volcanic activity on the environment in your interactive notebook.
+
+Earthquakes
+Tectonic plates are constantly moving. As tectonic plates slide past each other, or as one is subducted under another, friction can cause them to stick to one another. Eventually, the force causing them to move will suddenly "unstick" them and cause a violent shift. This sends shockwaves through the Earth, causing structural damage and potential tsunamis. The vast majority of earthquakes that occur originate in a circled region in the Pacific Ocean known as the "Ring of Fire."  
+
+The ring of fire
+
+(Image Source: https://pubs.usgs.gov/gip/dynamic/fire.htmlLinks to an external site.)
+
+In an effort to reduce our country's reliance on fossil fuels, the U.S. has begun harvesting natural gas reserves through hydraulic fracturing, or "fracking." According to many scientists, this process might be responsible for inducing earthquakes.
+
+Research the process of fracking and describe how it might be inducing earthquakes in your interactive notebook. Be sure to use reputable sources that cite scientific data. Watch this video Links to an external site.from the Unites States Geological Survey government agency for more information.
+
+Explore II: Earth Science
+Now that we have a better understanding of the interior of the Earth, let's explore Earth's exterior.
+
+In this lab, you will explore how Earth's rotation and orbit affect how it is heated by its source of energy, the Sun.
+
+ Materials:
+
+wooden skewer
+Styrofoam ball
+permanent marker
+bright lamp
+flashlight
+graph paper
+Modeling Night and Day
+Create and label a "North Pole" and "South Pole" by pushing the wooden skewer through the styrofoam ball. (The North Pole is where the skewer enters, and the South Pole is where the skewer exits.)
+Using a globe as a reference, place an X on your approximate location. 
+The skewer represents the Earth's axis that it spins on. It makes one full rotation in 24 hours.
+Holding the "Earth" vertically from North to South, draw a horizontal "Equator" halfway between the two poles.
+Place a bright lamp on a table and turn it on. Standing about two feet away and holding the Earth straight up and down from North to South, make one full rotation. Watch how this rotation effects when the light hits your location. You just modeled day and night!
+Modeling a Year
+With the previous activity, the lamp represented the sun. However, it is inaccurate to hold the Earth straight up and down. Instead, hold your model of the Earth so that the Northern Hemisphere is tilted toward the light at a 23.5
+ angle.
+Now, while holding the Earth with this tilt and rotating it on its axis, walk around the "Sun." Be sure to keep the Northern hemisphere tilted away from you. 
+Notice what happens to the light on your location on Earth. You have just modeled the orbit of the Earth around the Sun. This takes 365.25 days!
+Modeling Seasons
+The tilt of the Earth causes unequal heating. To model this, let's first consider how no tilt effects light intensity and temperature: Hold a flashlight directly over a piece of graph paper sitting on a table. Draw a circle around the area of paper that is lit up.
+Now, tilt the flashlight so that it shines on the paper, but not directly. Draw a circle around the area of paper that is lit up.                                    Lab setup
+You should have noticed that direct light covers a smaller area. As a result, that area will reach a higher temperature. When the light was tilted, the same amount of light energy was spread out over a larger area. This produces unequal heating. 
+Answer the following questions in your interactive notebook:
+
+How does the tilt of the Earth and the orbit around the sun affect the seasons?
+Which part of the Earth receives the most direct sunlight? What parts of the Earth receive the least direct sunlight?
+
+Explain II: Earth Science
+Many people mistakenly believe that we experience different seasons because the Earth moves closer and farther away from the sun. If that were the case, the entire planet would experience the same season. Instead, we find that when the Northern Hemisphere experiences winter, the Southern Hemisphere experiences summer, and vice versa.
+
+The Earth spins on an axis that is tilted at a 23.5
+ angle with respect to the plane on which it orbits the sun. A full rotation on its axis takes 24 hours, while the orbit around the sun takes 365.25 days. The midway point between the North Pole and the South Pole is the line of latitude known as the Equator. Regardless of the location of the Earth in its orbit, the Equator receives the most direct sunlight. The poles on the other hand, only receive sunlight when they are pointed toward the sun. 
+
+Earth's rotations
+
+During the Northern Hemisphere's winter, the North Pole does not receive any sunlight at any point during the day because it is tilted away from the sun. The majority of a day in the Northern Hemisphere, where San Francisco is located, does not receive sunlight. For this reason, temperatures are cooler. Oppositely, when the North Pole is tilted toward the sun, it spends its entire rotation in daylight. When the Earth is in this position in its orbit, the Northern Hemisphere experiences summer. 
+
+Even without a tilt, the Earth would experience unequal heating at different latitudes. At higher latitudes (closer to the poles), sunlight is spread across a broader area. You modeled this when you pointed the flashlight at the graph paper at an angle. At the Equator, the sunlight reaches the Earth directly and is much more concentrated in one area. This difference in light intensity due in part to the distance it must travel through atmosphere directly versus at an angle results in three general climate zones: 
+
+Climate zonesArctic Zone (90
+ to 66
+ latitude in each hemisphere)
+Located closest to the poles
+Lowest light intensity
+Tend to be covered in ice or snow the majority of the year
+Temperate Zone (66
+ to 23.5
+ latitude in each hemisphere)
+Located between the arctic and tropic zones
+Experience the most distinct changes throughout the seasons
+Large amount of variation depending on proximity to the ocean and other factors
+Tropic Zone (23.5
+ N to 23.5
+ S latitude)
+Located at and near the Equator
+Hight light intensity
+Most of this area is covered in oceans, resulting in constant evaporation, moisture, and convection, which causes frequent rainfall
+Summary of Key Concepts: 
+The Earth is tilted at an angle with respect to the plane at which it orbits the Sun. 
+In addition to orbiting the Sun, the Earth also rotates on its axis.
+Due to the tilt and unequal heating, the hemispheres experience seasons at different points in the Earth's orbit.
+Unequal heating also leads to three different climate zones: arctic, temperate, and tropic.
+Complete the graphic organizerLinks to an external site. and add it to your interactive notebook.
+
+Elaborate II: Earth Science
+Earth itself is one large system with smaller systems that interact. The main components of Earth's system are matter and energy. Let's take a closer look at the source of these two things and how they might change.
+
+Scientists theorize that all of the matter (atoms made of protons, neutrons, and electrons) was created in an explosion known as the Big Bang about 15 billion years ago. Protons fused with neutrons to make isotopes of hydrogen. Atoms of hydrogen fused with other atoms of hydrogen to produce helium. Through fusion, heavier and heavier elements were produced. 
+
+All of the matter on Earth exists in a closed system, meaning matter cannot be created or destroyed. We have a finite supply of water, for example. Instead, matter changes forms and is recycled. Later in this course, we will explore biogeochemical cycles, such as the water cycle and the carbon cycle, that are essential to living and environmental systems.
+
+Energy, on the other hand, is an open system. The radioactive decay that occurs in the core of the Earth is one source of energy, but our primary source is the Sun. Energy from the sun travels through space and reaches Earth by a process called thermal radiation. Some of this radiation is reflected off the surface of the Earth and travels back to space. 
+
+The image below diagrams important events and periods in Earth's history. It is important to understand these events and what caused them in order to build models to predict the Earth's future.
+
+Geologic time history
+
+(Image Source: https://commons.wikimedia.org/wiki/File:Geologic_Clock_-_with_events_and_periods_-_remake.pngLinks to an external site.)
+
+Glossary
+Vocabulary term Location Definition
+aquifer Unit 1, Lesson 3 an underground layer of permeable rock, sediment, or soil that
+yields water
+atmosphere Unit 1, Lesson 2 the mixture of gases above the Earth's crust
+atmospheric pressure Unit 1, Lesson 2 the amount of force that a column of air exerts on an area of the
+Earth's surface; measured in millibars (mb)
+clay Unit 1, Lesson 4 soil grains with the smallest particle size
+convergent Unit 1, Lesson 1 a plate boundary that occurs when two plates collide
+Coriolis effect Unit 1, Lesson 2 the deflection of air masses to the right in the north and to the
+left in the south as a result of Earth's rotation
+desalination Unit 1, Lesson 3 removing salt from salt water to produce freshwater
+desertification Unit 1, Lesson 4 when land becomes extremely dry and water-deprived
+divergent Unit 1, Lesson 1 a plate boundary that occurs when two plates move away from
+each other
+erosion Unit 1, Lesson 4 the process in which rock is transported elsewhere by wind and
+water
+exosphere Unit 1, Lesson 2 the outermost layer of the atmosphere
+fertility Unit 1, Lesson 4 the ability to support reproduction and growth
+freshwater Unit 1, Lesson 3 water that is free of dissolved salts
+geosphere Unit 1, Lesson 1 the Earth's interior, rocks, minerals, and landforms
+groundwater Unit 1, Lesson 3 water that is stored in soil or rock
+hot spots Unit 1, Lesson 1 places on the surface of the Earth where molten material from
+the mantle reaches the lithosphere
+irrigation Unit 1, Lesson 3 the process of transporting water to plots of area to grow crops
+lithification Unit 1, Lesson 4 the process of compaction and cementation of sedimentary
+rocks
+lithosphere Unit 1, Lesson 1 the upper mantle and the crust
+mesosphere Unit 1, Lesson 2 the third lowest level in the atmosphere
+pH Unit 1, Lesson 4 a measure of the acidity on a logarithmic scale from 0 to 14
+AP Environmental Science
+Unit 1: Earth Systems and Resources
+porosity Unit 1, Lesson 3 a measure of the amount of space in between soil particles that
+can carry water or air
+reservoir Unit 1, Lesson 3 large man-made lakes that supply water to communities
+runoff Unit 1, Lesson 3 water that flows over land and has not been absorbed into the
+ground
+salinization Unit 1, Lesson 3 an increase in salt concentrations in water and/or soil; can be
+caused by over-extraction of groundwater
+sand Unit 1, Lesson 4 soil grains with the largest particle size
+silt Unit 1, Lesson 4 soil grains with particle sizes of 0.002 to 0.05 mm
+soil compaction Unit 1, Lesson 4 when smaller soil particles are removed and the remaining soil
+moves downward to fill in the available space
+soil degradation Unit 1, Lesson 4 when the fertility or health of soil decreases
+stratosphere Unit 1, Lesson 2 the second lowest level in the atmosphere; a temperature
+inversion layer
+surface water Unit 1, Lesson 3 water that collects on the surface of the ground and forms
+rivers, lakes, and other freshwater bodies
+sustainability Unit 1, Lesson 3 the long-term capacity of an ecosystem to maintain ecological
+processes and functions, biological diversity, and productivity
+thermosphere Unit 1, Lesson 2 the fourth lowest level in the atmosphere
+transform Unit 1, Lesson 1 a plate boundary that occurs when two plates slide past one
+another
+tropopause Unit 1, Lesson 2 the area of the troposphere that has the lowest temperature;
+marks the boundary between the troposphere and the
+stratosphere
+troposphere Unit 1, Lesson 2 the lowest level in the atmosphere
+watershed Unit 1, Lesson 3 all of the land that supplies water to the river, often in the form
+of runoff
+weather Unit 1, Lesson 2 the state of the air at a particular place and time
+weathering Unit 1, Lesson 4 the process by which rock materials are broken down into
+smaller pieces and/or chemically changed

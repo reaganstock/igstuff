@@ -1,0 +1,41 @@
+{
+  "profile_updates": {
+    "change_name": true,
+    "new_name": "Darren Rossie",
+    "change_username": true,
+    "new_username": "darren.ross42",
+    "change_bio": true,
+    "new_bio": "Automation enthusiast | Python developer | Exploring the world of tech",
+    "change_profile_pic": true,
+    "profile_pic_path": "/Users/reaganstock/My Business/IMG_1619.PNG"
+  },
+  "posts": [
+    {
+      "type": "reel",
+      "media_paths": ["/Users/reaganstock/My Business/0819.mp4"],
+      "caption": "Watch how I automate Instagram tasks with Python! #TechTutorial #PythonMagic",
+      "location": "Silicon Valley",
+      "hide_likes_views": true,
+      "disable_comments": false,
+      "share_to_threads": true
+    }
+  ],
+  "users_to_follow": [
+    "pizzalover123",
+    "unicornglitter",
+    "cloudwatcher42",
+    "coffeebeanqueen",
+    "randomfactguy",
+    "sunsetphotographer",
+    "vintagecarenthusiast",
+    "cupcakebaker99",
+    "scubadivingadventurer",
+    "origamimaster",
+    "urbanjungledecor",
+    "retrogamingfanatic",
+    "amateurastronomer",
+    "miniatureworldcreator",
+    "extremeironing",
+    "professionalnappertester"
+  ]
+}

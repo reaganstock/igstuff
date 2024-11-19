@@ -1,0 +1,11 @@
+89.252.169.114:808:palfresh:palfresh
+82.222.12.230:64200:palfresh:palfresh
+89.252.169.107:808:palfresh:palfresh
+89.252.171.19:808:palfresh:palfresh
+94.102.8.221:808:palfresh:palfresh
+195.142.175.84:64200:palfresh:palfresh
+159.253.47.41:808:palfresh:palfresh
+95.173.180.153:808:palfresh:palfresh
+95.173.163.177:808:palfresh:palfresh
+46.221.42.203:808:palfresh:palfresh
+94.102.3.230:808:palfresh:palfresh
